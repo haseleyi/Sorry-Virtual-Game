@@ -2,6 +2,10 @@
 # Kevin Christianson and Isaac Haseley, 3/12/16
 
 
+0. Disclaimer
+
+    Ah, the first coding project. These 1673 lines of Python in a single file don't look as sexy as they did back in the day. But hey, I love them like the child I probably shouldn't have: a project I poured my heart into, but only to realize years later just how many things I should have done differently.
+
 1. A description of the program and its features:
 
     Our rendition of "Sorry!" is a 100% GUI version of the classic (4-piece, 4-color) board game. Hasbro's instructions are available online at http://www.hasbro.com/common/instruct/Sorry.PDF 
