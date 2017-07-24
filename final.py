@@ -1664,9 +1664,9 @@ card_rectangle = Rectangle(Point(305, 435), Point(430, 520))
 card_rectangle.setFill("white")
 
 def main():
-    # play game
-    #Process(target=Popen(["afplay","apologize.wav"])).start()
     # play music
+    #Process(target=Popen(["afplay","apologize.wav"])).start()
+    # play game
     Process(target=menu()).start()
 
 if __name__ == "__main__":
