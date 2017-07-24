@@ -8,7 +8,7 @@
 
 1. A description of the program and its features:
 
-    Our rendition of "Sorry!" is a 100% GUI version of the classic (4-piece, 4-color) board game. Hasbro's instructions are available online at http://www.hasbro.com/common/instruct/Sorry.PDF 
+    Our rendition of "Sorry!" is a GUI version of the classic (4-piece, 4-color) board game. Hasbro's instructions are available online at http://www.hasbro.com/common/instruct/Sorry.PDF 
     The program supports up to four total players, and upon opening, the user selects the number of players and whether each is an AI or a real-world player. The game's turns are automatically simulated with the exception of real-world player decisions, so the user(s) need not draw cards. On-screen prompts and buttons guide the user experience.
     If you're new to "Sorry!" or haven't played in some time, we recommend beginning with a single AI and a single real-world player.
     For a complete user experience, turn on your volume before running the program.
